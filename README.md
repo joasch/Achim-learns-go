@@ -1,9 +1,7 @@
 ﻿# Achim-learns-go
 
 gibt es etwas wie eine Syntax für md Dateien.
-
 Ist README.md ein default??
-
 passiert etwas mit blame: was jede Änderung festhalten soll
 
 erscheint die Änderung in History?
