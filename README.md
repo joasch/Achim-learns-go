@@ -5,4 +5,4 @@ Ist README.md ein default??
 passiert etwas mit blame: was jede Änderung festhalten soll
 erscheint die Änderung in History?
 
-Ich habe eine Antwort gefunden und in das Wiki geschrieben.
+Ich habe eine Antwort gefunden und in das Wiki unter  geschrieben. 
